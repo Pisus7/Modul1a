@@ -6,3 +6,8 @@ Titel, Wert, Standort etc.
 es soll zur Verfügung stehen aufgenommen und angezeigt werden 
 
 leicht erweiterbar keine Codeduplikation
+
+# Zweites Video
+
+Problemstellung angeschaut teile vom ersten Video
+
