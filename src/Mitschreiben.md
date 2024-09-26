@@ -67,4 +67,18 @@ wichtig Fahrzeug kann aber kein Auto sein da es nicht alle Werte hat die Auto en
 
 Alle Klassen sind Objects also Erben von Object
 
+# Video 2
 
+Konzepte
+
+Methoden-Polymorphie
+Statische und dynamische Typen
+Überschreiben von Methoden
+Dynamische Methodensuch(kann mir noch nicht wirklich was drunter vorstellen)
+und Zugriff über protected
+
+Ausgeben kann bis jetzt nur Werte von Mediums verwerten und  noch nicht von CDs oder DVDs
+
+Weil Superklasse nichts über Unterklasse weiß
+
+Dynamische Methodensuche bedeutet von unten nach oben wird die Methoden gesucht
