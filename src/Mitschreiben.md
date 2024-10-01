@@ -82,3 +82,9 @@ Ausgeben kann bis jetzt nur Werte von Mediums verwerten und  noch nicht von CDs 
 Weil Superklasse nichts über Unterklasse weiß
 
 Dynamische Methodensuche bedeutet von unten nach oben wird die Methoden gesucht
+
+wenn wir dann die Klassen von der Mutterklasse aufrufen wollen müssen wir super.methode schreiben
+
+toString können wir auch überschreiben ist da um die Werte von der Klasse auszugeben 
+
+protected ist nur die sup bzw mutterklasse haben Zugriff und nicht der Klient
