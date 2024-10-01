@@ -88,3 +88,10 @@ wenn wir dann die Klassen von der Mutterklasse aufrufen wollen müssen wir super
 toString können wir auch überschreiben ist da um die Werte von der Klasse auszugeben 
 
 protected ist nur die sup bzw mutterklasse haben Zugriff und nicht der Klient
+
+# Video 3
+
+überschreiben von methoden kann nur Sachen von Medium anzeigen weil wenn wir anzeigen überschreiben können wir auch Werte von DVD CD und Spiel ausgeben
+
+Dynamische Bindung Spiel hat kein anzeigen so würde es die Methode von Medium nehmen
+
