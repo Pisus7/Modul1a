@@ -95,3 +95,22 @@ protected ist nur die sup bzw mutterklasse haben Zugriff und nicht der Klient
 
 Dynamische Bindung Spiel hat kein anzeigen so würde es die Methode von Medium nehmen
 
+# Video 4
+
+Aufbau von polymorpher Codebasis
+
+Vererbung einsetzen
+
+Schnittstelle bereitstellen für subtypen anzeigen sieht anders aus wie CD 
+wichtig vollständig
+
+Überschreiben von Methoden mit abhängigkeit der Unterklasse 
+Entkopplung Ersetzbarkeit anwenden verwendung polymorphe Klassenhierachie
+
+In diesem zusammenhang dass wir Medium als Mutterklasse haben und Unterklassen wie CD DVD Spiel
+wir machen deshalb eine Arraylist von Medium also Typ Medium 
+
+Medium könnte auch abstrakt sein 
+
+
+
